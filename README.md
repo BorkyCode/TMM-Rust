@@ -2,6 +2,8 @@
 > A mod manager for Tera Online 64-bit composite GPK files, written in Rust.
 > Supporting Packed and RAW 64-bit mods!
 
+![Header Image](.gitresources/TMM-Rust.png)
+
 ### Download
 
 Get the latest version from ['Releases' section](https://github.com/BorkyCode/TMM-Rust/releases).
