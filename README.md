@@ -12,4 +12,3 @@ Get the latest version from ['Releases' section](https://github.com/BorkyCode/TM
 2. Start TMM-Rust.exe
 3. Select your S1Game Folder - If you get access denied os error, launch TMM-Rust.exe as Administrator.
 4. ** KR\TW\Starscape\Agaia ** : Check "Wait for TERA" - This will apply the mods after the launcher minimises. If your mods are not applying, check this box!
-5. 
